@@ -8,7 +8,7 @@ env:
   IBM_CLOUD_SPACE: djangoserver-space
   IBM_CLOUD_ORG: ChhayanshJain_Developer
   MANIFEST_NAME: manifest.yml
-#   IBM_CLOUD_API: 
+  IBM_CLOUD_API: 9gJdQJ0CcO5CMvb-wVljDgibq_MhVSoYztdp03iGSJoI
 
 defaults:
   run:
