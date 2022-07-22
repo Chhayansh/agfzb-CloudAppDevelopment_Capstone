@@ -6,10 +6,11 @@
 
 
  async function main(params) {
-     const cloudant = Cloudant({
-         url: params.COUCH_URL,
-         plugins: { iamauth: { iamApiKey: params.IAM_API_KEY } }
-     });
+    const cloudant = Cloudant({
+        url: "https://31bf46a4-3f40-4035-bcca-edd199d0c0f0-bluemix.cloudantnosqldb.appdomain.cloud",
+        plugins: { iamauth: { iamApiKey: params.azKhoG3QWI5_UBR19Sxc4GLsWJ4WmpddR3HrvM7VI2xk } }
+    });
+
  
  
      try {

@@ -4,9 +4,11 @@ ibm-cloud-sdk-core==3.10.0
 ibmcloudant==0.0.34
 idna==3.2
 jproperties==2.1.1
-PyJWT==2.1.0
+PyJWT==2.0.1
 python-dateutil==2.8.2
 requests==2.26.0
 six==1.16.0
-urllib3==1.26.6
+urllib3==1.26.10
 websocket-client==1.1.0
+httpx==0.20.0
+cloudant==2.15.0
